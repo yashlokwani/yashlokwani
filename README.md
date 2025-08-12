@@ -57,7 +57,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/yashlokwani/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=yashlokwani&color=blue&style=flat&label=Profile+Views)
 
 
 <!--
