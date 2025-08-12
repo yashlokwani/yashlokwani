@@ -45,7 +45,7 @@
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yashlokwani&repo=CraterVision_Crater_Detection_Portal&theme=radical)](https://github.com/yashlokwani/CraterVision_Crater_Detection_Portal)  
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yashlokwani&repo=Food_Delivery_App&theme=radical)](https://github.com/yashlokwani/Food_Delivery_App)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yashlokwani&repo=Virtual_interview_Platform=radical)](https://github.com/yashlokwani/Virtual_interview_Platform)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yashlokwani&repo=Virtual_interview_Platform&theme=radical)](https://github.com/yashlokwani/Virtual_interview_Platform)
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{yashlokwani}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/yashlokwani/count.svg)
 
 
 <!--
